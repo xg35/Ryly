@@ -1,0 +1,12 @@
+# Standard Python
+__pycache__/
+*.py[cod]
+*.log
+venv/
+.env
+archive/
+
+# Project-specific
+archive/
+customer_*.txt
+.DS_Store
