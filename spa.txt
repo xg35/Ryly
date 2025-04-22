@@ -1,0 +1,435 @@
+{
+  "menus": [
+    {
+      "restaurant name": "East, a la carta",
+      "versions": [
+        {
+          "language": "English",
+          "sections": [
+            {
+              "name": "Soups",
+              "items": [
+                {
+                  "name": "TONKINESE PHO",
+                  "description": "beef | rice noodles | broth"
+                },
+                {
+                  "name": "MISO",
+                  "description": "dashi | shiitake | seaweed | tofu"
+                },
+                {
+                  "name": "THAI STYLE FISH FILET",
+                  "description": "coconut grilled fish fillet in banana leaves"
+                },
+                {
+                  "name": "TEMPURA UDON",
+                  "description": "shrimp and vegetable tempura"
+                },
+                {
+                  "name": "CHICKEN TERIYAKI",
+                  "description": "soy sauce | ginger | garlic sauce"
+                },
+                {
+                  "name": "PASTA WITH VEGETABLES & TOFU",
+                  "description": "soy sauce | vegetables"
+                },
+                {
+                  "name": "YAKISOBA",
+                  "description": "stir-fried noodles | vegetables | pork"
+                },
+                {
+                  "name": "SWEET AND SOUR BABY BACK RIBS",
+                  "description": "orange and ginger infusion"
+                }
+              ]
+            },
+            {
+              "name": "Starters",
+              "items": [
+                { "name": "SAKE SUSHI", "description": "" },
+                { "name": "MAGURO SUSHI", "description": "" },
+                { "name": "EBI SUSHI", "description": "" },
+                { "name": "CALIFORNIA ROLL", "description": "crab | cucumber | avocado" },
+                { "name": "DRAGON ROLL", "description": "spicy tuna | lettuce | masago" },
+                { "name": "PHILADELPHIA", "description": "cream cheese | smoked salmon | sesame seeds" },
+                { "name": "TAMPICO", "description": "spicy crab | cucumber | lettuce" },
+                { "name": "VEGETARIAN", "description": "carrot | avocado | cucumber" },
+                { "name": "VULCAN", "description": "cream cheese | shrimp tempura | sweet & sour sauce" },
+                { "name": "DEEP FRIED SPRING ROLL", "description": "pork | carrot | cabbage | rice noodles | rice paper roll" },
+                { "name": "GYOZA", "description": "pork potstickers and shrimp filling | sesame oil" },
+                { "name": "KUSHIYAKI", "description": "vegetables | shrimp teriyaki | chicken satay | general Tao beef" }
+              ]
+            },
+            {
+              "name": "Teppanyaki Menu",
+              "items": [
+                { "name": "SUSHI PLATE (3 TYPES)", "description": "" },
+                { "name": "MISO SOUP", "description": "beef | chicken | shrimp" },
+                { "name": "STEAMED OR FRIED RICE", "description": "" },
+                { "name": "VEGETABLES", "description": "" },
+                { "name": "GREEN TEA CHEESECAKE", "description": "" }
+              ]
+            }
+          ],
+          "disclaimer": "Any items prepared without gluten products are made in a facility that handles wheat. Consumption of raw or undercooked foods may increase the risk of foodborne illness."
+        },
+        {
+          "language": "Spanish",
+          "sections": [
+            {
+              "name": "Entradas",
+              "items": [
+                { "name": "SAKE SUSHI", "description": "" },
+                { "name": "MAGURO SUSHI", "description": "" },
+                { "name": "EBI SUSHI", "description": "" },
+                { "name": "CALIFORNIA ROLL", "description": "cangrejo | pepino | aguacate" },
+                { "name": "DRAGON ROLL", "description": "spicy tuna | lechuga | masago" },
+                { "name": "PHILADELPHIA", "description": "queso crema | salmón ahumado | ajonjolí" },
+                { "name": "TAMPICO", "description": "cangrejo picante | pepino | lechuga" },
+                { "name": "VEGETARIANO", "description": "zanahoria | aguacate | pepino" },
+                { "name": "VULCAN", "description": "queso crema | tempura de camarón | salsa agridulce" },
+                { "name": "ROLLO PRIMAVERA FRITO", "description": "cerdo | zanahoria | col | fideos de arroz | papel arroz" },
+                { "name": "GYOZA", "description": "raviolis estilo japonés rellenos de cerdo y camarón | aceite de ajonjolí" },
+                { "name": "KUSHIYAKI", "description": "vegetales | camarones teriyaki | pollo satay | res general Tao" }
+              ]
+            },
+            {
+              "name": "Sopas",
+              "items": [
+                { "name": "TONKINESE PHO", "description": "res | fideos de arroz | caldo" },
+                { "name": "MISO", "description": "dashi | shiitake | alga | tofu" },
+                { "name": "FILETE DE PESCADO ESTILO TAI", "description": "filete de pescado con coco al grill envuelto en hojas de plátano" },
+                { "name": "TEMPURA UDON", "description": "tempura de camarones y vegetales" },
+                { "name": "POLLO TERIYAKI", "description": "salsa de soya | jengibre | salsa de ajo" },
+                { "name": "PASTA CON VEGETALES & TOFU", "description": "salsa de soya | vegetales" },
+                { "name": "YAKISOBA", "description": "fideos salteados | vegetales | cerdo" },
+                { "name": "COSTILLAS AGRIDULCE", "description": "infusión de jengibre y naranja" }
+              ]
+            },
+            {
+              "name": "Menú de Teppanyaki",
+              "items": [
+                { "name": "PLATO DE SUSHI (3 TIPOS)", "description": "" },
+                { "name": "SOPA MISO", "description": "carne | pollo | camarones" },
+                { "name": "ARROZ AL VAPOR O FRITO", "description": "" },
+                { "name": "VEGETALES", "description": "" },
+                { "name": "CHEESECAKE DE TÉ VERDE", "description": "" }
+              ]
+            }
+          ],
+          "disclaimer": "Cualquier artículo preparado sin productos con gluten se elabora en una instalación que maneja trigo. El consumo de alimentos crudos o poco cocidos puede aumentar el riesgo de enfermedades."
+        }
+      ]
+    },
+    {
+      "restaurant name": "ENG Sutra Insert 2024",
+      "versions": [
+        {
+          "language": "English",
+          "sections": [
+            {
+              "name": "Starters",
+              "items": [
+                { "name": "Mango Lassi", "description": "plain yogurt | sugar | cardamom" },
+                { "name": "Punjab Kadhi Pakoda", "description": "chickpeas flour fried dumpling | yogurt, turmeric, cumin and garlic sauce" },
+                { "name": "Onion Bhaji", "description": "crispy breaded onion in flour chickpea and spices" },
+                { "name": "Sabudana Vada", "description": "tapioca fritters | potato | ginger | green chili" },
+                { "name": "Vegetable Samosas", "description": "potato | green peas | peanuts | dry fruits | spices" },
+                { "name": "Paneer Pakora", "description": "paneer cheese | spiced mint potatoes" },
+                { "name": "Aloo Tikki Chole Chatt", "description": "potato tikki | chickpeas curry | chutney | cumin powder | coriander | yogurt" },
+                { "name": "Vegetable Biryani", "description": "basmati rice | saffron | yogurt | mint | spices | ghee" },
+                { "name": "Aloo Gobi", "description": "cauliflower | potato | onion | tomato | cumin | spices" },
+                { "name": "Dal Makhani", "description": "black lentils | tomato | ginger | garlic | spices | butter | cream" },
+                { "name": "Chana Masala", "description": "chick peas | onion and tomato based sauce | spices" },
+                { "name": "Jeera Aloo", "description": "potato | cumin seed | spices" },
+                { "name": "Matar Paneer", "description": "green peas | paneer cheese | onion and tomato based sauce | cashew | Indian spices" },
+                { "name": "Tandoori Chicken Tikka", "description": "grilled tandoori masala chicken kebabs" },
+                { "name": "Salmon Tikka", "description": "yogurt | ginger garlic paste | lemon juice | hot Indian spices" }
+              ]
+            },
+            {
+              "name": "Main Specialities",
+              "items": [
+                { "name": "Curry", "description": "choice of chicken, fish, or shrimp | onion | tomato | garam masala | coriander" },
+                { "name": "Vindaloo", "description": "choice of chicken, lamb or paneer | medium spicy sauce | potato | lemon | red chillies" },
+                { "name": "Korma", "description": "paneer or chicken | mild cashew sauce | cream | onion | garlic | cardamom" },
+                { "name": "Lamb Tunde Kebab", "description": "ginger | garlic and spices marinade | lamb" },
+                { "name": "Murgh Makhani", "description": "yogurt and Indian spices marinade | chicken | tomato | cashew based sauce | butter | kasuri methi cream | garam masalas" }
+              ]
+            },
+            {
+              "name": "Sides",
+              "items": [
+                { "name": "Naan", "description": "plain | butter garlic | butter coriander" },
+                { "name": "Raita", "description": "yogurt | onion | tomato | cucumber | cumin powder" },
+                { "name": "Roasted Cumin Salad", "description": "tomato | lettuce | onion" },
+                { "name": "Sadha Chawal", "description": "steamed rice" },
+                { "name": "Jeera Rice", "description": "cumin and whole Indian spices rice | coriander leaves" }
+              ]
+            }
+          ],
+          "disclaimer": "Any items prepared without gluten products are made in a facility that handles wheat. Consumption of raw or undercooked foods may increase the risk of foodborne illness."
+        }
+      ]
+    },
+    {
+      "restaurant name": "Gusto Dinner Menu",
+      "versions": [
+        {
+          "language": "English",
+          "sections": [
+            {
+              "name": "Starters",
+              "subsections": [
+                {
+                  "name": "Pizza",
+                  "items": []
+                },
+                {
+                  "name": "Pasta & Risotto",
+                  "items": []
+                },
+                {
+                  "name": "Antipasti",
+                  "items": [
+                    { "name": "Truffle Essence Beef Carpaccio", "description": "beef tenderloin | arugula | grana padano | lemon infused truffle oil" },
+                    { "name": "Burrata Caprese", "description": "smoked cherry tomato | balsamic glaze | pesto" },
+                    { "name": "Cozze Alle Vino Bianco", "description": "pancetta | shallots | tomatoes | basil | parsley | black olives" },
+                    { "name": "Quinoa Arancini", "description": "onion | mozzarella cheese | sun dried tomatoes | olive basil pomodoro sauce" },
+                    { "name": "\"Della Nonna\" Squash Cream Soup", "description": "star anise essence" },
+                    { "name": "Margherita", "description": "tomato sauce | mozzarella | basil" },
+                    { "name": "Quattro Fromaggi", "description": "tomato sauce | mozzarella | parmesan | ricotta | gorgonzola cheese" },
+                    { "name": "Ortolana", "description": "tomato sauce | mozzarella | vegetables" },
+                    { "name": "Diavola", "description": "tomato | mozzarella | pepperoni" },
+                    { "name": "Meat Lovers", "description": "tomato | mozzarella | Italian sausage | salami | bacon" },
+                    { "name": "Napoletana", "description": "tomato sauce | mozzarella | oregano | anchovies" },
+                    { "name": "Quattro Stagioni", "description": "tomato sauce | mozzarella | mushrooms | ham | artichokes | olives | oregano" },
+                    { "name": "Boscaiola", "description": "mushrooms | cheese | sausage" },
+                    { "name": "Calzone", "description": "tomato sauce | mozzarella | mushrooms | artichokes | anchovies | oregano" }
+                  ]
+                },
+                {
+                  "name": "Pasta & Risotto Items",
+                  "items": [
+                    { "name": "Linguini al Vongole", "description": "fresh clams | shallot | butter | garlic | chili flakes | Italian parsley | white wine" },
+                    { "name": "Pesce Affumicato e Vodka", "description": "farfalle | smoked snapper | rose vodka sauce" },
+                    { "name": "Spaghetti con e Polpette", "description": "beef and Italian sausage house-made meatballs | herb tomato sauce" },
+                    { "name": "Penne de Pollo al Pesto", "description": "grilled chicken | cherry tomatoes | asparagus tips" },
+                    { "name": "Ravioli de Ricotta e Spinaci", "description": "tomato sauce | basil oil" },
+                    { "name": "Gnocchi ai Quattro Formaggi", "description": "Italian four cheese sauce | basil" },
+                    { "name": "Lasagna al Forno", "description": "classic baked in our wood burning oven" },
+                    { "name": "Risotto ai Tre Funghi", "description": "wild mushrooms | portobello | porcini | parmesan cloud | rosemary" },
+                    { "name": "Risotto ai Prosciutto", "description": "local pumpkin | white wine | watercress salad" }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mains",
+              "items": [
+                { "name": "Pesce Scottato con Fagiolini", "description": "pan seared snapper with green beans" },
+                { "name": "Petit Filet di Manzo Marinato alle Erbe", "description": "herb marinated teres major steak | rosemary demi | truffled mashed potatoes | vegetables" },
+                { "name": "Braised Lamb Shank", "description": "gnocchi | brussel sprouts | demi glace" },
+                { "name": "Petto di Pollo alla Valdostana", "description": "angel hair | tomato sauce | provolone “au gratin”" },
+                { "name": "Zucchini Ripiene", "description": "garbanzos | lentils | portobello | onions | garlic | tomato rice | red pepper sauce" },
+                { "name": "Pappardelle al Ragu di Salsiccia Italiana", "description": "fresh large pasta ribbons | red wine braised Italian sausage | tomato sauce | fennel | olives | basil" },
+                { "name": "Aragosta ai Vino Bianco", "description": "8oz lobster tail | white wine tomato and caper sauce | portobello mushroom and brandy sauce finished at your table" }
+              ]
+            },
+            {
+              "name": "Disclaimer",
+              "description": "Any items prepared without gluten products are made in a facility that handles wheat. Consumption of raw or undercooked foods may increase the risk of foodborne illness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant name": "La Cocina",
+      "versions": [
+        {
+          "language": "English",
+          "sections": [
+            {
+              "name": "Starters",
+              "items": [
+                { "name": "Panela Cheese Salad", "description": "mixed greens | cherry tomatoes | beet | peanuts | hibiscus vinaigrette" },
+                { "name": "Fish Ceviche Tostada", "description": "onion | tomato | lemon juice | coriander | radish | avocado | fried crispy tortilla" },
+                { "name": "Shrimp and Scallop Aguachile", "description": "lime juice | serrano chili | cucumber | red onion | cilantro" },
+                { "name": "Al Ajillo Style Calamari", "description": "refried beans | garlic | guajillo chili | spring onion | lemon" },
+                { "name": "Lamb Barbacoa Style Tacos", "description": "guajillo chili sauce | onion | cilantro | lime | arriera salsa" },
+                { "name": "Handmade Quesadilla", "description": "corn tortilla | oaxaca cheese | pumpkin flower, mushroom or chorizo" },
+                { "name": "Melted Cheese", "description": "mushrooms, chorizo or rajas" }
+              ]
+            },
+            {
+              "name": "Soups",
+              "items": [
+                { "name": "Aztec Style Soup", "description": "tomato | guajillo and epazote broth | avocado | fried crispy tortilla | cream" },
+                { "name": "Yucatan Lime Soup", "description": "grilled turkey broth | xcatic chili | coriander | fried tortillas" }
+              ]
+            },
+            {
+              "name": "Enhance Your Experience",
+              "items": [
+                { "name": "Grilled 8oz Lobster Tail", "description": "choice of garlic butter sauce or chipotle meunière; accompanied by baby carrots, patty pan squash, asparagus and wild rice pilaf; ajillo baby potatoes with caramelized spring onions and hoja santa butter" }
+              ]
+            },
+            {
+              "name": "Mains",
+              "items": [
+                { "name": "Salmon with Hoja Santa Sauce", "description": "cream | white beans purée | grilled zucchini" },
+                { "name": "Veracruz Style Grilled Red Snapper", "description": "tomato | bell pepper | capers | thyme and olives ragout" },
+                { "name": "Catch of the Day 'A La Talla' Style", "description": "red onions | mashed plantain" },
+                { "name": "Beef or Chicken Fajitas", "description": "bell peppers | onion | tortilla flour" },
+                { "name": "Modelo Beer Braised Short Rib", "description": "pulque | roasted tomato | carrot | onion | cauliflower purée" },
+                { "name": "Turkey in Mole Sauce", "description": "24 spices sauce | rice | onion | sesame seed" },
+                { "name": "Chicken Enchiladas", "description": "tomato or tomatillo sauce | sour cream | fresh cheese" },
+                { "name": "Mexican Style Squash", "description": "local squash | tomato | onion | coriander | beans | tofu" },
+                { "name": "Quinoa and Sweet Potato Stuffed Chile Poblano", "description": "walnuts | apples | cinnamon | epazote | white bean sauce" },
+                { "name": "Roasted Suckling Pig Tacos", "description": "roasted pork confit | pico de gallo | coriander | corn tortilla | pork skin" }
+              ]
+            },
+            {
+              "name": "Entradas",
+              "items": [
+                { "name": "Ensalada de Queso Panela", "description": "lechugas mixtas | tomate cherry | betabel | cacahuates | vinagreta de jamaica" },
+                { "name": "Tostada con Ceviche de Pescado", "description": "cebolla | tomate | jugo de limón | cilantro | rábano | aguacate | tortilla frita" },
+                { "name": "Aguachile de Camarón y Callo de Hacha", "description": "jugo de limón | chile serrano | pepino | cebolla morada | cilantro" },
+                { "name": "Calamares al Ajillo", "description": "frijoles refritos | ajo | chile guajillo | cebolla cambray | limón" },
+                { "name": "Tacos de Barbacoa", "description": "salsa de chile guajillo | cebolla | cilantro | limón | salsa arriera" },
+                { "name": "Quesadilla Hecha a Mano", "description": "tortilla de maíz | queso oaxaca | flor de calabaza, champiñones o chorizo" },
+                { "name": "Queso Fundido", "description": "champiñones, chorizo o rajas" }
+              ]
+            },
+            {
+              "name": "Soups (Spanish)",
+              "items": [
+                { "name": "Sopa Azteca", "description": "tomate | caldo de chile guajillo y epazote | aguacate | tortilla frita | crema" },
+                { "name": "Sopa de Lima Yucatán", "description": "caldo de pavo a la parrilla | chile xcatic | cilantro | tortillas fritas" }
+              ]
+            },
+            {
+              "name": "Enhance Your Experience (Spanish)",
+              "items": [
+                { "name": "8oz de Cola de Langosta al Grill", "description": "served with mantequilla de ajo or chipotle meunière" }
+              ]
+            },
+            {
+              "name": "Main Courses (Spanish)",
+              "items": [
+                { "name": "Salmón con Salsa de Hoja Santa", "description": "crema | puré de alubias blancas | calabacitas a la parrilla" },
+                { "name": "Huachinango a la Veracruzana", "description": "tomate | pimientos | alcaparras | ragout de aceitunas y tomillo" },
+                { "name": "Pesca del Día 'A La Talla'", "description": "cebolla morada | puré de plátano" },
+                { "name": "Fajitas de Res o de Pollo", "description": "pimientos | cebolla | tortillas de harina" },
+                { "name": "Costillas de Res Brasadas con Cerveza", "description": "pulque | tomate rostizado | zanahoria | cebolla | puré de coliflor" },
+                { "name": "Pavo en Mole", "description": "salsa de 24 especias | arroz | cebolla | ajonjolí" },
+                { "name": "Enchiladas de Pollo", "description": "salsa de tomate o de tomatillo | crema ácida | queso fresco" },
+                { "name": "Calabacitas a la Mexicana", "description": "calabaza local | tomate | cebolla | frijoles | tofu" },
+                { "name": "Chile Poblano Relleno de Camote y Quinoa", "description": "nueces | manzana | canela | epazote | salsa de alubias" },
+                { "name": "Tacos de Lechón", "description": "cerdo confitado | pico de gallo | cilantro | tortilla | chicharrón" }
+              ]
+            }
+          ],
+          "disclaimer": "Any items prepared without gluten products are made in a facility that handles wheat. Consumption of raw or undercooked foods may increase the risk of foodborne illness."
+        }
+      ]
+    },
+    {
+      "restaurant name": "Sunset",
+      "versions": [
+        {
+          "language": "English",
+          "sections": [
+            {
+              "name": "Appetizers",
+              "items": [
+                { "name": "ARUGULA SALAD", "description": "beet | tomato | caramelized onions | black olives | fennel | balsamic dressing" },
+                { "name": "SUNSET ST RIP \"HAIL TO\" CAESAR SALAD", "description": "romaine | garlic croutons | 4-cheese nuggets | house-made caesar dressing" },
+                { "name": "CRISPY ICEBERG SALAD", "description": "fried prosciutto | mojito dressing" },
+                { "name": "DEEP FRIED SHRIMP AND ONION RINGS", "description": "spicy green apple chutney" },
+                { "name": "DUO ANGUS BEEF SLIDERS", "description": "caramelized onions & pepper jack cheese | bacon & aged cheddar" },
+                { "name": "FRENCH ONION SOUP", "description": "gratin with provolone | gruyere | parmesan cheese" },
+                { "name": "MUSHROOM CHOWDER", "description": "creamy mushroom soup | potato" },
+                { "name": "FIVE-SPICE PAN SEARED SALMON TOURNEDO", "description": "ginger and sesame vegetable stir-fry" },
+                { "name": "SURF & SURF", "description": "grilled mahi | gulf shrimp" },
+                { "name": "SUNSET ST RIP BURGER", "description": "100% beef | cheddar or gorgonzola | bacon | caramelized onions | tomato | lettuce | pickles" }
+              ]
+            },
+            {
+              "name": "Mains",
+              "items": [
+                { "name": "FLANK STEAK", "description": "" },
+                { "name": "PET IT FILE ET MIGNON", "description": "" },
+                { "name": "NEW YORK ST RIP", "description": "" },
+                { "name": "RIB EYE STEAK", "description": "" },
+                { "name": "BRAISED SHORT RIB", "description": "finished in the wood oven | linguini alfredo" },
+                { "name": "GRILLED CHICKEN BREAST", "description": "creamy spinach risotto" },
+                { "name": "CAUL IFLOWER ST EAK", "description": "seasoned with spices and herbs | finished on the grill" },
+                { "name": "GRILLED EGGPLANT RISOTTO", "description": "sweet potato | broccoli | tomato broth | thyme | garlic | frisée | lemon juice | olive oil" }
+              ]
+            },
+            {
+              "name": "Enhance Your Experience",
+              "items": [
+                { "name": "Sides & Sauces", "description": "CABERNET DEMI PEPPERCORN, BLUE CHEESE CHIMICHURRI, BAKED POTATO, WAFFLE FRIES, CREAMY SPINACH, ONION RING, SAUTEED VEGETABLES" }
+              ]
+            },
+            {
+              "name": "Additional Items",
+              "items": [
+                { "name": "LANGOSTA AL GRILL", "description": "risotto al azafrán | champiñones | salsa de mantequilla con champagne | espinacas a la crema; papas pont neuf; vegetales glaseados con balsámico | mantequilla de truffa o maitre d´hotel" }
+              ]
+            },
+            {
+              "name": "Disclaimers",
+              "items": [
+                { "name": "Gluten and Food Safety", "description": "Gluten disclaimer and foodborne illness warning" }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "Spanish",
+          "sections": [
+            {
+              "name": "Entradas",
+              "items": [
+                { "name": "ENSALADA DE ARUGULA", "description": "betabel | tomate | cebolla caramelizada | aceituna negra | hinojo | aderezo de balsámico" },
+                { "name": "ENSALADA CESAR SUNSET ST RIP \"HAIL TO\"", "description": "lechuga romana | crutones de ajo | 4 quesos | aderezo césar casero" },
+                { "name": "ENSALADA ICEBERG", "description": "prosciutto frito | aderezo de mojito" },
+                { "name": "CAMARONES Y AROS DE CEBOLLA FRITOS", "description": "chutney de manzana picante" },
+                { "name": "DUO DE SLIDERS DE RES", "description": "cebolla caramelizada & queso pepper jack | tocino & cheddar añejados" }
+              ]
+            },
+            {
+              "name": "Platos Principales",
+              "items": [
+                { "name": "ARRACHERA, FILET E MIGNON PEQUEÑO", "description": "" },
+                { "name": "NEW YORK ST RIP", "description": "" },
+                { "name": "RIB EYE STEAK", "description": "" },
+                { "name": "COSTILLAS DE RES BRASEADAS", "description": "terminadas al horno | linguini alfredo" },
+                { "name": "PECHUGA DE POLLO AL GRILL", "description": "risotto cremoso con espinacas" },
+                { "name": "STEAK DE COLIFLOR", "description": "sazonado con especias y hierbas | terminado al grill" },
+                { "name": "RISOTTO DE BERENJENA A LA PLANCHA", "description": "camote | brócoli | caldo de tomate | tomillo | ajo | frisée | jugo de limón | aceite de oliva" },
+                { "name": "COSTILLAS DE CERDO BBQ AL SOUTHERN COMFORT", "description": "puré de camote y calabaza" }
+              ]
+            },
+            {
+              "name": "Additional Items",
+              "items": [
+                { "name": "PRIME ANGUS OPTIONS", "description": "PRIME ANGUS TOMAHAWK, PRIME ANGUS RIB EYE, PRIME ANGUS T-BONE" }
+              ]
+            },
+            {
+              "name": "Disclaimers",
+              "items": [
+                { "name": "Gluten and Food Safety", "description": "Gluten disclaimer and foodborne illness warning" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

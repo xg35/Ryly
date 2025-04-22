@@ -1,0 +1,6 @@
+googlemaps>=4.10.0
+ag2[openai]>=0.2.0 # For AutoGen framework
+langchain~=0.3.0 # Compatible with Pydantic V2
+langchain-core~=0.3.0
+langchain-openai~=0.3.0
+langsmith>=0.1.0 # For tracing (replaces langchainplus-sdk)
